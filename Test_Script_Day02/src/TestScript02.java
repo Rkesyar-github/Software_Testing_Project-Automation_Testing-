@@ -104,7 +104,8 @@ public class TestScript02 {
 		else {
 				    System.out.println("Test case : Failed");
 		}
-				
+		
+	   
 	    driver.close();
 	    
 	
